@@ -1,5 +1,5 @@
 # Color Mapping
-Human eyes are not good enough to observe changes in a GRAYSCALE Images. Small changes in GreyScale intensities. And we are way better at perceiving changes in colors.
+Human eyes are not good enough to observe changes in a GRAYSCALE Images speacially small changes in GreyScale intensities. And we are way better at perceiving changes in colors.
 Data is better visualized by pseudo-coloring. For Example Temperata Data, Height Data, Pressure Data etc.
 
 **OpenCV defines 12 colormaps that can be applied to a grayscale image.**
