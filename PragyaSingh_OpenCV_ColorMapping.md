@@ -6,7 +6,7 @@ Data is better visualized by pseudo-coloring. For Example Temperata Data, Height
 So OpenCV use **applyColorMap()** function to produce pesudocolored image.
 This Figure shows the visual representation of colormaps. Lower grayscale values are replaced by colors to the left of the scale while higher grayscale values are on the right of the scale.
 
-<img src="https://user-images.githubusercontent.com/64967140/93757182-eee10280-fc23-11ea-9619-3d72f0d1172b.jpg" width="350" height="350" />
+<img src="https://user-images.githubusercontent.com/64967140/93757182-eee10280-fc23-11ea-9619-3d72f0d1172b.jpg" width="500" height="500" />
 
 *Demo Picture*
 
